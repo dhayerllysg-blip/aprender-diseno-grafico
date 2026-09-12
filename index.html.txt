@@ -1,0 +1,316 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Cómo Aprender Diseño Gráfico en 12 Meses | Guía Progresiva 2026</title>
+<meta name="description" content="Plan completo y progresivo para aprender diseño gráfico desde cero en 12 meses. Ruta mes a mes con herramientas, ejercicios y recursos gratuitos y de pago.">
+<meta name="keywords" content="aprender diseño gráfico, curso diseño gráfico, diseño gráfico desde cero, plan 12 meses diseño">
+
+<style>
+* {
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+}
+
+body {
+font-family: 'Segoe UI', system-ui, -apple-system, sans-serif;
+line-height: 1.7;
+color: #1a1a1a;
+background: #f8f9fa;
+}
+
+.container {
+max-width: 900px;
+margin: 0 auto;
+padding: 0 20px;
+}
+
+/* Header */
+header {
+background: linear-gradient(135deg, #4f46e5, #7c3aed);
+color: white;
+padding: 60px 0 50px;
+text-align: center;
+}
+
+header h1 {
+font-size: 2.4rem;
+margin-bottom: 15px;
+font-weight: 700;
+}
+
+header p {
+font-size: 1.2rem;
+opacity: 0.95;
+max-width: 600px;
+margin: 0 auto;
+}
+
+/* Ad placeholder */
+.ad-space {
+background: #e5e7eb;
+border: 2px dashed #9ca3af;
+color: #6b7280;
+text-align: center;
+padding: 25px;
+margin: 30px 0;
+font-size: 0.9rem;
+border-radius: 8px;
+}
+
+/* Main content */
+main {
+background: white;
+margin: -30px auto 40px;
+padding: 40px 30px;
+border-radius: 16px;
+box-shadow: 0 10px 30px rgba(0,0,0,0.08);
+}
+
+h2 {
+font-size: 1.8rem;
+color: #4f46e5;
+margin: 40px 0 20px;
+padding-bottom: 10px;
+border-bottom: 3px solid #e0e7ff;
+}
+
+h3 {
+font-size: 1.35rem;
+color: #1e1b4b;
+margin: 30px 0 12px;
+}
+
+p {
+margin-bottom: 16px;
+color: #374151;
+}
+
+ul, ol {
+margin: 15px 0 20px 25px;
+}
+
+li {
+margin-bottom: 8px;
+}
+
+.month {
+background: #f5f3ff;
+border-left: 5px solid #7c3aed;
+padding: 20px 25px;
+margin: 25px 0;
+border-radius: 0 12px 12px 0;
+}
+
+.month h3 {
+margin-top: 0;
+color: #5b21b6;
+}
+
+.tools {
+display: flex;
+flex-wrap: wrap;
+gap: 10px;
+margin: 15px 0;
+}
+
+.tool {
+background: #ede9fe;
+color: #5b21b6;
+padding: 6px 14px;
+border-radius: 20px;
+font-size: 0.9rem;
+font-weight: 500;
+}
+
+.highlight {
+background: #fef3c7;
+padding: 20px;
+border-radius: 10px;
+margin: 25px 0;
+border-left: 5px solid #f59e0b;
+}
+
+footer {
+text-align: center;
+padding: 40px 20px;
+color: #6b7280;
+font-size: 0.95rem;
+}
+
+footer a {
+color: #4f46e5;
+text-decoration: none;
+}
+
+@media (max-width: 600px) {
+header h1 {
+font-size: 1.8rem;
+}
+main {
+padding: 25px 18px;
+}
+}
+</style>
+</head>
+<body>
+
+<header>
+<div class="container">
+<h1>Cómo Aprender Diseño Gráfico en 12 Meses</h1>
+<p>Una ruta clara, progresiva y realista para pasar de cero a diseñador junior listo para trabajar o freelancing.</p>
+</div>
+</header>
+
+<div class="container">
+<main>
+<!-- Espacio para anuncio superior -->
+<div class="ad-space">
+[Espacio para anuncio de Google AdSense - Banner superior]
+</div>
+
+<h2>¿Es posible aprender diseño gráfico en un año?</h2>
+<p>Sí. Si dedicas entre <strong>8 y 12 horas semanales</strong> de forma constante, en 12 meses puedes adquirir una base sólida y un portafolio suficiente para conseguir tus primeros clientes o un trabajo junior.</p>
+<p>Esta guía está pensada para personas que empiezan desde cero. No necesitas experiencia previa, solo disciplina y ganas de practicar.</p>
+
+<div class="highlight">
+<strong>Importante:</strong> El diseño se aprende haciendo. Cada mes incluye ejercicios prácticos. Sin práctica constante, el progreso se detiene.
+</div>
+
+<!-- Espacio para anuncio medio -->
+<div class="ad-space">
+[Espacio para anuncio de Google AdSense - Rectangular]
+</div>
+
+<h2>Plan de 12 meses (progresivo)</h2>
+
+<div class="month">
+<h3>Mes 1-2: Fundamentos visuales</h3>
+<p>Aprende los pilares del diseño: composición, color, tipografía y contraste.</p>
+<ul>
+<li>Teoría del color y psicología del color</li>
+<li>Jerarquía visual y composición</li>
+<li>Tipografía básica (serif, sans-serif, pairing)</li>
+<li>Regla de los tercios y espacio negativo</li>
+</ul>
+<div class="tools">
+<span class="tool">Canva</span>
+<span class="tool">Figma (gratis)</span>
+<span class="tool">Coolors.co</span>
+</div>
+<p><strong>Ejercicio:</strong> Rediseña 5 portadas de libros o carteles antiguos aplicando lo aprendido.</p>
+</div>
+
+<div class="month">
+<h3>Mes 3-4: Dominio de herramientas</h3>
+<p>Conviértete en usuario competente de las herramientas profesionales.</p>
+<ul>
+<li>Adobe Photoshop (retoque y composición)</li>
+<li>Adobe Illustrator (vectores y logos)</li>
+<li>Figma (diseño de interfaces y prototipos)</li>
+</ul>
+<div class="tools">
+<span class="tool">Photoshop</span>
+<span class="tool">Illustrator</span>
+<span class="tool">Figma</span>
+</div>
+<p><strong>Ejercicio:</strong> Crea un logo simple + versión en blanco y negro + mockup de aplicación.</p>
+</div>
+
+<div class="month">
+<h3>Mes 5-6: Identidad visual y branding</h3>
+<p>Aprende a crear sistemas visuales completos para marcas.</p>
+<ul>
+<li>Proceso de creación de un logo</li>
+<li>Paletas de color y tipografías de marca</li>
+<li>Manual de identidad básica</li>
+<li>Aplicaciones (tarjetas, redes sociales, packaging)</li>
+</ul>
+<p><strong>Proyecto:</strong> Diseña la identidad completa de una marca ficticia (o real de un amigo).</p>
+</div>
+
+<!-- Espacio para anuncio -->
+<div class="ad-space">
+[Espacio para anuncio de Google AdSense]
+</div>
+
+<div class="month">
+<h3>Mes 7-8: Diseño para redes y marketing</h3>
+<p>El área con más demanda actual.</p>
+<ul>
+<li>Diseño de posts para Instagram, TikTok y LinkedIn</li>
+<li>Stories y carruseles</li>
+<li>Banners publicitarios</li>
+<li>Principios de diseño orientado a conversión</li>
+</ul>
+<p><strong>Proyecto:</strong> Crea un calendario de contenido visual de 15 días para una marca.</p>
+</div>
+
+<div class="month">
+<h3>Mes 9-10: Diseño UI/UX básico + Portafolio</h3>
+<p>Empieza a entender interfaces y construye tu portafolio.</p>
+<ul>
+<li>Principios de usabilidad</li>
+<li>Wireframes y prototipos en Figma</li>
+<li>Diseño de una landing page completa</li>
+<li>Cómo presentar proyectos en Behance o tu propia web</li>
+</ul>
+<p><strong>Proyecto clave:</strong> Crea tu portafolio online con al menos 4-5 proyectos bien presentados.</p>
+</div>
+
+<div class="month">
+<h3>Mes 11-12: Especialización y clientes reales</h3>
+<p>Elige un camino y empieza a generar ingresos.</p>
+<ul>
+<li>Elige especialidad: branding, redes sociales, UI o packaging</li>
+<li>Precios y presupuestos para freelancers</li>
+<li>Cómo conseguir los primeros clientes</li>
+<li>Mejora continua y feedback</li>
+</ul>
+<p><strong>Objetivo final:</strong> Tener 2-3 clientes reales o un trabajo junior / prácticas.</p>
+</div>
+
+<h2>Herramientas recomendadas (2026)</h2>
+<ul>
+<li><strong>Gratuitas:</strong> Figma, Canva, Photopea, GIMP, Inkscape</li>
+<li><strong>De pago (recomendadas):</strong> Adobe Creative Cloud (Photoshop + Illustrator)</li>
+<li><strong>Extras útiles:</strong> Coolors, Fontpair, Unsplash, Pexels, Remove.bg</li>
+</ul>
+
+<h2>Recursos de aprendizaje recomendados</h2>
+<ul>
+<li>YouTube: canales en español como “Diseño Club”, “Domestika free”, “Flux Academy”</li>
+<li>Cursos: Domestika, Crehana, Coursera, o el plan de estudios de esta guía</li>
+<li>Libros: “Design Elements” de Timothy Samara y “The Design of Everyday Things”</li>
+<li>Inspiración diaria: Behance, Dribbble, Pinterest</li>
+</ul>
+
+<div class="highlight">
+<strong>Consejo final:</strong> Publica tu progreso cada mes en Instagram o LinkedIn. La constancia visible atrae oportunidades.
+</div>
+
+<!-- Último espacio de anuncio -->
+<div class="ad-space">
+[Espacio para anuncio de Google AdSense - Inferior]
+</div>
+
+<h2>¿Listo para empezar?</h2>
+<p>El mejor momento para empezar es ahora. Guarda esta página, elige el Mes 1 y dedica tu primera sesión esta misma semana. En 12 meses te sorprenderás de lo lejos que puedes llegar.</p>
+</main>
+</div>
+
+<footer>
+<div class="container">
+<p>© 2026 Aprende Diseño Gráfico · Guía gratuita y actualizada</p>
+<p>
+<a href="#">Política de Privacidad</a> ·
+<a href="#">Aviso Legal</a> ·
+<a href="#">Contacto</a>
+</p>
+</div>
+</footer>
+
+</body>
+</html>
